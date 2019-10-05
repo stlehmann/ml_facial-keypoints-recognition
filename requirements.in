@@ -1,0 +1,11 @@
+keras
+keras-tqdm
+matplotlib
+numpy
+pandas
+pyprojroot
+requests
+jupyterlab
+ipywidgets
+tensorflow
+tqdm

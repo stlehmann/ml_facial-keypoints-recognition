@@ -127,3 +127,9 @@ dmypy.json
 
 # pycharm project files
 ../.idea
+
+# extracted data files
+/020_data/IdLookupTable.csv
+/020_data/SampleSubmission.csv
+/020_data/test.csv
+/020_data/training.csv

@@ -5,7 +5,9 @@ numpy
 pandas
 pyprojroot
 requests
+jupyter
 jupyterlab
 ipywidgets
+sklearn
 tensorflow
 tqdm

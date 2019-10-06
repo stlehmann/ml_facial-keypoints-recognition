@@ -7,8 +7,8 @@ import pandas as pd
 from pyprojroot import here
 
 
-train_p: pathlib.Path = here("020_data/training.csv")
-test_p: pathlib.Path = here("020_data/test.csv")
+train_p = here("020_data/training.csv")  # type: pathlib.Path
+test_p = here("020_data/test.csv")  # type: pathlib.Path
 
 
 def get_labels():
